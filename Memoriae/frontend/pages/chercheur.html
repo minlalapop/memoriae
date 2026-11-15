@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Espace chercheur | Memoriae</title>
+  <link rel="stylesheet" href="/static/css/base.css"><link rel="stylesheet" href="/static/css/forms.css"><link rel="stylesheet" href="/static/css/tests.css">
+  <script type="module" src="/static/js/chercheur.js"></script>
+</head>
+<body><div id="app-shell"></div><main>
+  <p id="page-message" role="status" aria-live="polite"></p>
+  <section id="participants-section" class="panel">
+    <div class="section-heading"><h2>Participants</h2><button type="button" id="show-participant-form">Ajouter un participant</button></div>
+    <form id="participant-form" class="form-grid compact-form" hidden>
+      <input id="participant-id" type="hidden"><h3 id="participant-form-title">Nouveau participant</h3>
+      <label for="participant-lastname">Nom</label><input id="participant-lastname" required maxlength="200">
+      <label for="participant-firstname">Prénom</label><input id="participant-firstname" maxlength="200">
+      <label for="participant-age">Âge</label><input id="participant-age" type="number" min="0" max="130">
+      <div class="button-row"><button type="submit">Enregistrer</button><button type="button" class="secondary" id="cancel-participant">Annuler</button></div>
+    </form>
+    <div id="participant-list" class="records"></div>
+  </section>
+  <section id="experiments-section">
+    <div class="section-heading"><h2>Expériences</h2><button type="button" id="show-experiment-form">Créer une expérience</button></div>
+    <form id="experiment-form" class="panel form-grid" hidden>
+      <input id="experiment-id" type="hidden"><h3 id="experiment-form-title">Nouvelle expérience</h3>
+      <label for="experiment-name">Nom</label><input id="experiment-name" required maxlength="200">
+      <label for="experiment-description">Description</label><textarea id="experiment-description" maxlength="2000"></textarea>
+      <label for="seed-base">Seed initiale</label><input id="seed-base" type="number" value="42">
+      <div class="steps-editor"><div class="section-heading"><h3>Tests de l’expérience</h3><button type="button" class="secondary" id="add-step">Ajouter un test</button></div><div id="steps-list"></div></div>
+      <label class="checkbox-line"><input id="experiment-active" type="checkbox" checked> Expérience active</label>
+      <div class="button-row"><button type="submit">Enregistrer</button><button type="button" class="secondary" id="cancel-experiment">Annuler</button></div>
+    </form>
+    <div id="experiment-list" class="records"></div>
+  </section>
+  <section class="panel model-status"><h2>Modèle computationnel</h2><p><a class="secondary-link" href="/chercheur/modeles">Ouvrir les modèles de mémoire</a></p></section>
+</main></body></html>

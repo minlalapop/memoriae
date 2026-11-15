@@ -1,0 +1,15 @@
+{
+  "version": "memoriae-objets-v1",
+  "usage": "prototype",
+  "images": [
+    {"id": "pomme", "fichier": "01_pomme.png", "label": "pomme"},
+    {"id": "maison", "fichier": "02_maison.png", "label": "maison"},
+    {"id": "cle", "fichier": "03_cle.png", "label": "clé"},
+    {"id": "velo", "fichier": "04_velo.png", "label": "vélo"},
+    {"id": "chat", "fichier": "05_chat.png", "label": "chat"},
+    {"id": "ciseaux", "fichier": "06_ciseaux.png", "label": "ciseaux"},
+    {"id": "parapluie", "fichier": "07_parapluie.png", "label": "parapluie"},
+    {"id": "tasse", "fichier": "08_tasse.png", "label": "tasse"},
+    {"id": "arbre", "fichier": "09_arbre.png", "label": "arbre"}
+  ]
+}

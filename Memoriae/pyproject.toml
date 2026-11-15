@@ -1,0 +1,54 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "memoriae"
+version = "0.5.0"
+description = "Prototype de recherche en mémoire et assistance cognitive"
+requires-python = ">=3.11"
+dependencies = [
+  "alembic>=1.14,<2",
+  "fastapi>=0.115,<1",
+  "pydantic>=2.9,<3",
+  "sqlalchemy>=2.0,<3",
+  "uvicorn>=0.30,<1",
+]
+
+[project.optional-dependencies]
+test = [
+  "httpx>=0.27,<1",
+  "pytest>=8,<10",
+]
+dev = [
+  "ruff>=0.9,<1",
+]
+model = [
+  "pillow>=12,<14",
+  "torch>=2.10,<3",
+  "torchvision>=0.25,<1",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.setuptools.packages.find]
+include = ["app*"]
+
+[tool.setuptools.package-data]
+app = [
+  "cognitive/stimuli/objets/*.json",
+  "cognitive/stimuli/objets/*.png",
+  "cognitive/stimuli/fashion_mnist/*.json",
+  "cognitive/stimuli/fashion_mnist/*.png",
+  "memory/models/checkpoints/*.pt",
+]
+
+[tool.ruff]
+target-version = "py311"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I"]
+

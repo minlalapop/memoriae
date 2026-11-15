@@ -1,0 +1,1545 @@
+{
+  "dataset": "Fashion-MNIST",
+  "split": "test",
+  "version": "fashion-mnist-test-seed44-v1",
+  "selection_seed": 44,
+  "count": 128,
+  "items": [
+    {
+      "id": "fashion-test-9732",
+      "dataset_index": 9732,
+      "label_id": 8,
+      "label": "Sac",
+      "fichier": "test-09732.png",
+      "masked_fichiers": {
+        "25": "test-09732-mask-right-25.png",
+        "50": "test-09732-mask-right-50.png",
+        "75": "test-09732-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-8277",
+      "dataset_index": 8277,
+      "label_id": 1,
+      "label": "Pantalon",
+      "fichier": "test-08277.png",
+      "masked_fichiers": {
+        "25": "test-08277-mask-right-25.png",
+        "50": "test-08277-mask-right-50.png",
+        "75": "test-08277-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-5895",
+      "dataset_index": 5895,
+      "label_id": 9,
+      "label": "Bottine",
+      "fichier": "test-05895.png",
+      "masked_fichiers": {
+        "25": "test-05895-mask-right-25.png",
+        "50": "test-05895-mask-right-50.png",
+        "75": "test-05895-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-2681",
+      "dataset_index": 2681,
+      "label_id": 4,
+      "label": "Manteau",
+      "fichier": "test-02681.png",
+      "masked_fichiers": {
+        "25": "test-02681-mask-right-25.png",
+        "50": "test-02681-mask-right-50.png",
+        "75": "test-02681-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-6319",
+      "dataset_index": 6319,
+      "label_id": 1,
+      "label": "Pantalon",
+      "fichier": "test-06319.png",
+      "masked_fichiers": {
+        "25": "test-06319-mask-right-25.png",
+        "50": "test-06319-mask-right-50.png",
+        "75": "test-06319-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-6354",
+      "dataset_index": 6354,
+      "label_id": 3,
+      "label": "Robe",
+      "fichier": "test-06354.png",
+      "masked_fichiers": {
+        "25": "test-06354-mask-right-25.png",
+        "50": "test-06354-mask-right-50.png",
+        "75": "test-06354-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-8858",
+      "dataset_index": 8858,
+      "label_id": 4,
+      "label": "Manteau",
+      "fichier": "test-08858.png",
+      "masked_fichiers": {
+        "25": "test-08858-mask-right-25.png",
+        "50": "test-08858-mask-right-50.png",
+        "75": "test-08858-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-7117",
+      "dataset_index": 7117,
+      "label_id": 0,
+      "label": "T-shirt/haut",
+      "fichier": "test-07117.png",
+      "masked_fichiers": {
+        "25": "test-07117-mask-right-25.png",
+        "50": "test-07117-mask-right-50.png",
+        "75": "test-07117-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-3867",
+      "dataset_index": 3867,
+      "label_id": 3,
+      "label": "Robe",
+      "fichier": "test-03867.png",
+      "masked_fichiers": {
+        "25": "test-03867-mask-right-25.png",
+        "50": "test-03867-mask-right-50.png",
+        "75": "test-03867-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-1583",
+      "dataset_index": 1583,
+      "label_id": 7,
+      "label": "Basket",
+      "fichier": "test-01583.png",
+      "masked_fichiers": {
+        "25": "test-01583-mask-right-25.png",
+        "50": "test-01583-mask-right-50.png",
+        "75": "test-01583-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-8202",
+      "dataset_index": 8202,
+      "label_id": 6,
+      "label": "Chemise",
+      "fichier": "test-08202.png",
+      "masked_fichiers": {
+        "25": "test-08202-mask-right-25.png",
+        "50": "test-08202-mask-right-50.png",
+        "75": "test-08202-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-2699",
+      "dataset_index": 2699,
+      "label_id": 1,
+      "label": "Pantalon",
+      "fichier": "test-02699.png",
+      "masked_fichiers": {
+        "25": "test-02699-mask-right-25.png",
+        "50": "test-02699-mask-right-50.png",
+        "75": "test-02699-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-2267",
+      "dataset_index": 2267,
+      "label_id": 8,
+      "label": "Sac",
+      "fichier": "test-02267.png",
+      "masked_fichiers": {
+        "25": "test-02267-mask-right-25.png",
+        "50": "test-02267-mask-right-50.png",
+        "75": "test-02267-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-7077",
+      "dataset_index": 7077,
+      "label_id": 9,
+      "label": "Bottine",
+      "fichier": "test-07077.png",
+      "masked_fichiers": {
+        "25": "test-07077-mask-right-25.png",
+        "50": "test-07077-mask-right-50.png",
+        "75": "test-07077-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-6682",
+      "dataset_index": 6682,
+      "label_id": 6,
+      "label": "Chemise",
+      "fichier": "test-06682.png",
+      "masked_fichiers": {
+        "25": "test-06682-mask-right-25.png",
+        "50": "test-06682-mask-right-50.png",
+        "75": "test-06682-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-35",
+      "dataset_index": 35,
+      "label_id": 0,
+      "label": "T-shirt/haut",
+      "fichier": "test-00035.png",
+      "masked_fichiers": {
+        "25": "test-00035-mask-right-25.png",
+        "50": "test-00035-mask-right-50.png",
+        "75": "test-00035-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-3795",
+      "dataset_index": 3795,
+      "label_id": 3,
+      "label": "Robe",
+      "fichier": "test-03795.png",
+      "masked_fichiers": {
+        "25": "test-03795-mask-right-25.png",
+        "50": "test-03795-mask-right-50.png",
+        "75": "test-03795-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-3755",
+      "dataset_index": 3755,
+      "label_id": 3,
+      "label": "Robe",
+      "fichier": "test-03755.png",
+      "masked_fichiers": {
+        "25": "test-03755-mask-right-25.png",
+        "50": "test-03755-mask-right-50.png",
+        "75": "test-03755-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-2429",
+      "dataset_index": 2429,
+      "label_id": 4,
+      "label": "Manteau",
+      "fichier": "test-02429.png",
+      "masked_fichiers": {
+        "25": "test-02429-mask-right-25.png",
+        "50": "test-02429-mask-right-50.png",
+        "75": "test-02429-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-5746",
+      "dataset_index": 5746,
+      "label_id": 1,
+      "label": "Pantalon",
+      "fichier": "test-05746.png",
+      "masked_fichiers": {
+        "25": "test-05746-mask-right-25.png",
+        "50": "test-05746-mask-right-50.png",
+        "75": "test-05746-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-6110",
+      "dataset_index": 6110,
+      "label_id": 3,
+      "label": "Robe",
+      "fichier": "test-06110.png",
+      "masked_fichiers": {
+        "25": "test-06110-mask-right-25.png",
+        "50": "test-06110-mask-right-50.png",
+        "75": "test-06110-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-61",
+      "dataset_index": 61,
+      "label_id": 7,
+      "label": "Basket",
+      "fichier": "test-00061.png",
+      "masked_fichiers": {
+        "25": "test-00061-mask-right-25.png",
+        "50": "test-00061-mask-right-50.png",
+        "75": "test-00061-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-6825",
+      "dataset_index": 6825,
+      "label_id": 9,
+      "label": "Bottine",
+      "fichier": "test-06825.png",
+      "masked_fichiers": {
+        "25": "test-06825-mask-right-25.png",
+        "50": "test-06825-mask-right-50.png",
+        "75": "test-06825-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-4142",
+      "dataset_index": 4142,
+      "label_id": 6,
+      "label": "Chemise",
+      "fichier": "test-04142.png",
+      "masked_fichiers": {
+        "25": "test-04142-mask-right-25.png",
+        "50": "test-04142-mask-right-50.png",
+        "75": "test-04142-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-8109",
+      "dataset_index": 8109,
+      "label_id": 9,
+      "label": "Bottine",
+      "fichier": "test-08109.png",
+      "masked_fichiers": {
+        "25": "test-08109-mask-right-25.png",
+        "50": "test-08109-mask-right-50.png",
+        "75": "test-08109-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-6131",
+      "dataset_index": 6131,
+      "label_id": 4,
+      "label": "Manteau",
+      "fichier": "test-06131.png",
+      "masked_fichiers": {
+        "25": "test-06131-mask-right-25.png",
+        "50": "test-06131-mask-right-50.png",
+        "75": "test-06131-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-3241",
+      "dataset_index": 3241,
+      "label_id": 4,
+      "label": "Manteau",
+      "fichier": "test-03241.png",
+      "masked_fichiers": {
+        "25": "test-03241-mask-right-25.png",
+        "50": "test-03241-mask-right-50.png",
+        "75": "test-03241-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-4781",
+      "dataset_index": 4781,
+      "label_id": 0,
+      "label": "T-shirt/haut",
+      "fichier": "test-04781.png",
+      "masked_fichiers": {
+        "25": "test-04781-mask-right-25.png",
+        "50": "test-04781-mask-right-50.png",
+        "75": "test-04781-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-6336",
+      "dataset_index": 6336,
+      "label_id": 1,
+      "label": "Pantalon",
+      "fichier": "test-06336.png",
+      "masked_fichiers": {
+        "25": "test-06336-mask-right-25.png",
+        "50": "test-06336-mask-right-50.png",
+        "75": "test-06336-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-8751",
+      "dataset_index": 8751,
+      "label_id": 4,
+      "label": "Manteau",
+      "fichier": "test-08751.png",
+      "masked_fichiers": {
+        "25": "test-08751-mask-right-25.png",
+        "50": "test-08751-mask-right-50.png",
+        "75": "test-08751-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-5274",
+      "dataset_index": 5274,
+      "label_id": 4,
+      "label": "Manteau",
+      "fichier": "test-05274.png",
+      "masked_fichiers": {
+        "25": "test-05274-mask-right-25.png",
+        "50": "test-05274-mask-right-50.png",
+        "75": "test-05274-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-3439",
+      "dataset_index": 3439,
+      "label_id": 7,
+      "label": "Basket",
+      "fichier": "test-03439.png",
+      "masked_fichiers": {
+        "25": "test-03439-mask-right-25.png",
+        "50": "test-03439-mask-right-50.png",
+        "75": "test-03439-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-7445",
+      "dataset_index": 7445,
+      "label_id": 0,
+      "label": "T-shirt/haut",
+      "fichier": "test-07445.png",
+      "masked_fichiers": {
+        "25": "test-07445-mask-right-25.png",
+        "50": "test-07445-mask-right-50.png",
+        "75": "test-07445-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-559",
+      "dataset_index": 559,
+      "label_id": 5,
+      "label": "Sandale",
+      "fichier": "test-00559.png",
+      "masked_fichiers": {
+        "25": "test-00559-mask-right-25.png",
+        "50": "test-00559-mask-right-50.png",
+        "75": "test-00559-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-7554",
+      "dataset_index": 7554,
+      "label_id": 7,
+      "label": "Basket",
+      "fichier": "test-07554.png",
+      "masked_fichiers": {
+        "25": "test-07554-mask-right-25.png",
+        "50": "test-07554-mask-right-50.png",
+        "75": "test-07554-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-8302",
+      "dataset_index": 8302,
+      "label_id": 5,
+      "label": "Sandale",
+      "fichier": "test-08302.png",
+      "masked_fichiers": {
+        "25": "test-08302-mask-right-25.png",
+        "50": "test-08302-mask-right-50.png",
+        "75": "test-08302-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-3088",
+      "dataset_index": 3088,
+      "label_id": 7,
+      "label": "Basket",
+      "fichier": "test-03088.png",
+      "masked_fichiers": {
+        "25": "test-03088-mask-right-25.png",
+        "50": "test-03088-mask-right-50.png",
+        "75": "test-03088-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-5986",
+      "dataset_index": 5986,
+      "label_id": 4,
+      "label": "Manteau",
+      "fichier": "test-05986.png",
+      "masked_fichiers": {
+        "25": "test-05986-mask-right-25.png",
+        "50": "test-05986-mask-right-50.png",
+        "75": "test-05986-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-3735",
+      "dataset_index": 3735,
+      "label_id": 4,
+      "label": "Manteau",
+      "fichier": "test-03735.png",
+      "masked_fichiers": {
+        "25": "test-03735-mask-right-25.png",
+        "50": "test-03735-mask-right-50.png",
+        "75": "test-03735-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-5234",
+      "dataset_index": 5234,
+      "label_id": 7,
+      "label": "Basket",
+      "fichier": "test-05234.png",
+      "masked_fichiers": {
+        "25": "test-05234-mask-right-25.png",
+        "50": "test-05234-mask-right-50.png",
+        "75": "test-05234-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-7320",
+      "dataset_index": 7320,
+      "label_id": 5,
+      "label": "Sandale",
+      "fichier": "test-07320.png",
+      "masked_fichiers": {
+        "25": "test-07320-mask-right-25.png",
+        "50": "test-07320-mask-right-50.png",
+        "75": "test-07320-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-6807",
+      "dataset_index": 6807,
+      "label_id": 4,
+      "label": "Manteau",
+      "fichier": "test-06807.png",
+      "masked_fichiers": {
+        "25": "test-06807-mask-right-25.png",
+        "50": "test-06807-mask-right-50.png",
+        "75": "test-06807-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-9235",
+      "dataset_index": 9235,
+      "label_id": 3,
+      "label": "Robe",
+      "fichier": "test-09235.png",
+      "masked_fichiers": {
+        "25": "test-09235-mask-right-25.png",
+        "50": "test-09235-mask-right-50.png",
+        "75": "test-09235-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-3347",
+      "dataset_index": 3347,
+      "label_id": 6,
+      "label": "Chemise",
+      "fichier": "test-03347.png",
+      "masked_fichiers": {
+        "25": "test-03347-mask-right-25.png",
+        "50": "test-03347-mask-right-50.png",
+        "75": "test-03347-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-5838",
+      "dataset_index": 5838,
+      "label_id": 8,
+      "label": "Sac",
+      "fichier": "test-05838.png",
+      "masked_fichiers": {
+        "25": "test-05838-mask-right-25.png",
+        "50": "test-05838-mask-right-50.png",
+        "75": "test-05838-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-7638",
+      "dataset_index": 7638,
+      "label_id": 3,
+      "label": "Robe",
+      "fichier": "test-07638.png",
+      "masked_fichiers": {
+        "25": "test-07638-mask-right-25.png",
+        "50": "test-07638-mask-right-50.png",
+        "75": "test-07638-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-8394",
+      "dataset_index": 8394,
+      "label_id": 0,
+      "label": "T-shirt/haut",
+      "fichier": "test-08394.png",
+      "masked_fichiers": {
+        "25": "test-08394-mask-right-25.png",
+        "50": "test-08394-mask-right-50.png",
+        "75": "test-08394-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-5995",
+      "dataset_index": 5995,
+      "label_id": 9,
+      "label": "Bottine",
+      "fichier": "test-05995.png",
+      "masked_fichiers": {
+        "25": "test-05995-mask-right-25.png",
+        "50": "test-05995-mask-right-50.png",
+        "75": "test-05995-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-9472",
+      "dataset_index": 9472,
+      "label_id": 9,
+      "label": "Bottine",
+      "fichier": "test-09472.png",
+      "masked_fichiers": {
+        "25": "test-09472-mask-right-25.png",
+        "50": "test-09472-mask-right-50.png",
+        "75": "test-09472-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-9405",
+      "dataset_index": 9405,
+      "label_id": 0,
+      "label": "T-shirt/haut",
+      "fichier": "test-09405.png",
+      "masked_fichiers": {
+        "25": "test-09405-mask-right-25.png",
+        "50": "test-09405-mask-right-50.png",
+        "75": "test-09405-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-3066",
+      "dataset_index": 3066,
+      "label_id": 7,
+      "label": "Basket",
+      "fichier": "test-03066.png",
+      "masked_fichiers": {
+        "25": "test-03066-mask-right-25.png",
+        "50": "test-03066-mask-right-50.png",
+        "75": "test-03066-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-6396",
+      "dataset_index": 6396,
+      "label_id": 7,
+      "label": "Basket",
+      "fichier": "test-06396.png",
+      "masked_fichiers": {
+        "25": "test-06396-mask-right-25.png",
+        "50": "test-06396-mask-right-50.png",
+        "75": "test-06396-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-5623",
+      "dataset_index": 5623,
+      "label_id": 6,
+      "label": "Chemise",
+      "fichier": "test-05623.png",
+      "masked_fichiers": {
+        "25": "test-05623-mask-right-25.png",
+        "50": "test-05623-mask-right-50.png",
+        "75": "test-05623-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-8556",
+      "dataset_index": 8556,
+      "label_id": 4,
+      "label": "Manteau",
+      "fichier": "test-08556.png",
+      "masked_fichiers": {
+        "25": "test-08556-mask-right-25.png",
+        "50": "test-08556-mask-right-50.png",
+        "75": "test-08556-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-8512",
+      "dataset_index": 8512,
+      "label_id": 4,
+      "label": "Manteau",
+      "fichier": "test-08512.png",
+      "masked_fichiers": {
+        "25": "test-08512-mask-right-25.png",
+        "50": "test-08512-mask-right-50.png",
+        "75": "test-08512-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-8321",
+      "dataset_index": 8321,
+      "label_id": 8,
+      "label": "Sac",
+      "fichier": "test-08321.png",
+      "masked_fichiers": {
+        "25": "test-08321-mask-right-25.png",
+        "50": "test-08321-mask-right-50.png",
+        "75": "test-08321-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-7909",
+      "dataset_index": 7909,
+      "label_id": 7,
+      "label": "Basket",
+      "fichier": "test-07909.png",
+      "masked_fichiers": {
+        "25": "test-07909-mask-right-25.png",
+        "50": "test-07909-mask-right-50.png",
+        "75": "test-07909-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-4681",
+      "dataset_index": 4681,
+      "label_id": 7,
+      "label": "Basket",
+      "fichier": "test-04681.png",
+      "masked_fichiers": {
+        "25": "test-04681-mask-right-25.png",
+        "50": "test-04681-mask-right-50.png",
+        "75": "test-04681-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-4503",
+      "dataset_index": 4503,
+      "label_id": 7,
+      "label": "Basket",
+      "fichier": "test-04503.png",
+      "masked_fichiers": {
+        "25": "test-04503-mask-right-25.png",
+        "50": "test-04503-mask-right-50.png",
+        "75": "test-04503-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-8418",
+      "dataset_index": 8418,
+      "label_id": 0,
+      "label": "T-shirt/haut",
+      "fichier": "test-08418.png",
+      "masked_fichiers": {
+        "25": "test-08418-mask-right-25.png",
+        "50": "test-08418-mask-right-50.png",
+        "75": "test-08418-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-470",
+      "dataset_index": 470,
+      "label_id": 9,
+      "label": "Bottine",
+      "fichier": "test-00470.png",
+      "masked_fichiers": {
+        "25": "test-00470-mask-right-25.png",
+        "50": "test-00470-mask-right-50.png",
+        "75": "test-00470-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-8386",
+      "dataset_index": 8386,
+      "label_id": 9,
+      "label": "Bottine",
+      "fichier": "test-08386.png",
+      "masked_fichiers": {
+        "25": "test-08386-mask-right-25.png",
+        "50": "test-08386-mask-right-50.png",
+        "75": "test-08386-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-2547",
+      "dataset_index": 2547,
+      "label_id": 2,
+      "label": "Pull",
+      "fichier": "test-02547.png",
+      "masked_fichiers": {
+        "25": "test-02547-mask-right-25.png",
+        "50": "test-02547-mask-right-50.png",
+        "75": "test-02547-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-416",
+      "dataset_index": 416,
+      "label_id": 2,
+      "label": "Pull",
+      "fichier": "test-00416.png",
+      "masked_fichiers": {
+        "25": "test-00416-mask-right-25.png",
+        "50": "test-00416-mask-right-50.png",
+        "75": "test-00416-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-4585",
+      "dataset_index": 4585,
+      "label_id": 6,
+      "label": "Chemise",
+      "fichier": "test-04585.png",
+      "masked_fichiers": {
+        "25": "test-04585-mask-right-25.png",
+        "50": "test-04585-mask-right-50.png",
+        "75": "test-04585-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-488",
+      "dataset_index": 488,
+      "label_id": 0,
+      "label": "T-shirt/haut",
+      "fichier": "test-00488.png",
+      "masked_fichiers": {
+        "25": "test-00488-mask-right-25.png",
+        "50": "test-00488-mask-right-50.png",
+        "75": "test-00488-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-2085",
+      "dataset_index": 2085,
+      "label_id": 9,
+      "label": "Bottine",
+      "fichier": "test-02085.png",
+      "masked_fichiers": {
+        "25": "test-02085-mask-right-25.png",
+        "50": "test-02085-mask-right-50.png",
+        "75": "test-02085-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-6683",
+      "dataset_index": 6683,
+      "label_id": 5,
+      "label": "Sandale",
+      "fichier": "test-06683.png",
+      "masked_fichiers": {
+        "25": "test-06683-mask-right-25.png",
+        "50": "test-06683-mask-right-50.png",
+        "75": "test-06683-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-8329",
+      "dataset_index": 8329,
+      "label_id": 1,
+      "label": "Pantalon",
+      "fichier": "test-08329.png",
+      "masked_fichiers": {
+        "25": "test-08329-mask-right-25.png",
+        "50": "test-08329-mask-right-50.png",
+        "75": "test-08329-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-9439",
+      "dataset_index": 9439,
+      "label_id": 9,
+      "label": "Bottine",
+      "fichier": "test-09439.png",
+      "masked_fichiers": {
+        "25": "test-09439-mask-right-25.png",
+        "50": "test-09439-mask-right-50.png",
+        "75": "test-09439-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-9860",
+      "dataset_index": 9860,
+      "label_id": 7,
+      "label": "Basket",
+      "fichier": "test-09860.png",
+      "masked_fichiers": {
+        "25": "test-09860-mask-right-25.png",
+        "50": "test-09860-mask-right-50.png",
+        "75": "test-09860-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-5462",
+      "dataset_index": 5462,
+      "label_id": 2,
+      "label": "Pull",
+      "fichier": "test-05462.png",
+      "masked_fichiers": {
+        "25": "test-05462-mask-right-25.png",
+        "50": "test-05462-mask-right-50.png",
+        "75": "test-05462-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-7275",
+      "dataset_index": 7275,
+      "label_id": 2,
+      "label": "Pull",
+      "fichier": "test-07275.png",
+      "masked_fichiers": {
+        "25": "test-07275-mask-right-25.png",
+        "50": "test-07275-mask-right-50.png",
+        "75": "test-07275-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-1845",
+      "dataset_index": 1845,
+      "label_id": 8,
+      "label": "Sac",
+      "fichier": "test-01845.png",
+      "masked_fichiers": {
+        "25": "test-01845-mask-right-25.png",
+        "50": "test-01845-mask-right-50.png",
+        "75": "test-01845-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-1614",
+      "dataset_index": 1614,
+      "label_id": 1,
+      "label": "Pantalon",
+      "fichier": "test-01614.png",
+      "masked_fichiers": {
+        "25": "test-01614-mask-right-25.png",
+        "50": "test-01614-mask-right-50.png",
+        "75": "test-01614-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-7163",
+      "dataset_index": 7163,
+      "label_id": 6,
+      "label": "Chemise",
+      "fichier": "test-07163.png",
+      "masked_fichiers": {
+        "25": "test-07163-mask-right-25.png",
+        "50": "test-07163-mask-right-50.png",
+        "75": "test-07163-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-8885",
+      "dataset_index": 8885,
+      "label_id": 0,
+      "label": "T-shirt/haut",
+      "fichier": "test-08885.png",
+      "masked_fichiers": {
+        "25": "test-08885-mask-right-25.png",
+        "50": "test-08885-mask-right-50.png",
+        "75": "test-08885-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-2783",
+      "dataset_index": 2783,
+      "label_id": 1,
+      "label": "Pantalon",
+      "fichier": "test-02783.png",
+      "masked_fichiers": {
+        "25": "test-02783-mask-right-25.png",
+        "50": "test-02783-mask-right-50.png",
+        "75": "test-02783-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-7629",
+      "dataset_index": 7629,
+      "label_id": 7,
+      "label": "Basket",
+      "fichier": "test-07629.png",
+      "masked_fichiers": {
+        "25": "test-07629-mask-right-25.png",
+        "50": "test-07629-mask-right-50.png",
+        "75": "test-07629-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-3411",
+      "dataset_index": 3411,
+      "label_id": 5,
+      "label": "Sandale",
+      "fichier": "test-03411.png",
+      "masked_fichiers": {
+        "25": "test-03411-mask-right-25.png",
+        "50": "test-03411-mask-right-50.png",
+        "75": "test-03411-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-2875",
+      "dataset_index": 2875,
+      "label_id": 3,
+      "label": "Robe",
+      "fichier": "test-02875.png",
+      "masked_fichiers": {
+        "25": "test-02875-mask-right-25.png",
+        "50": "test-02875-mask-right-50.png",
+        "75": "test-02875-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-6430",
+      "dataset_index": 6430,
+      "label_id": 0,
+      "label": "T-shirt/haut",
+      "fichier": "test-06430.png",
+      "masked_fichiers": {
+        "25": "test-06430-mask-right-25.png",
+        "50": "test-06430-mask-right-50.png",
+        "75": "test-06430-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-3474",
+      "dataset_index": 3474,
+      "label_id": 5,
+      "label": "Sandale",
+      "fichier": "test-03474.png",
+      "masked_fichiers": {
+        "25": "test-03474-mask-right-25.png",
+        "50": "test-03474-mask-right-50.png",
+        "75": "test-03474-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-5128",
+      "dataset_index": 5128,
+      "label_id": 4,
+      "label": "Manteau",
+      "fichier": "test-05128.png",
+      "masked_fichiers": {
+        "25": "test-05128-mask-right-25.png",
+        "50": "test-05128-mask-right-50.png",
+        "75": "test-05128-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-343",
+      "dataset_index": 343,
+      "label_id": 1,
+      "label": "Pantalon",
+      "fichier": "test-00343.png",
+      "masked_fichiers": {
+        "25": "test-00343-mask-right-25.png",
+        "50": "test-00343-mask-right-50.png",
+        "75": "test-00343-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-1806",
+      "dataset_index": 1806,
+      "label_id": 8,
+      "label": "Sac",
+      "fichier": "test-01806.png",
+      "masked_fichiers": {
+        "25": "test-01806-mask-right-25.png",
+        "50": "test-01806-mask-right-50.png",
+        "75": "test-01806-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-5447",
+      "dataset_index": 5447,
+      "label_id": 7,
+      "label": "Basket",
+      "fichier": "test-05447.png",
+      "masked_fichiers": {
+        "25": "test-05447-mask-right-25.png",
+        "50": "test-05447-mask-right-50.png",
+        "75": "test-05447-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-1595",
+      "dataset_index": 1595,
+      "label_id": 9,
+      "label": "Bottine",
+      "fichier": "test-01595.png",
+      "masked_fichiers": {
+        "25": "test-01595-mask-right-25.png",
+        "50": "test-01595-mask-right-50.png",
+        "75": "test-01595-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-7947",
+      "dataset_index": 7947,
+      "label_id": 1,
+      "label": "Pantalon",
+      "fichier": "test-07947.png",
+      "masked_fichiers": {
+        "25": "test-07947-mask-right-25.png",
+        "50": "test-07947-mask-right-50.png",
+        "75": "test-07947-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-691",
+      "dataset_index": 691,
+      "label_id": 0,
+      "label": "T-shirt/haut",
+      "fichier": "test-00691.png",
+      "masked_fichiers": {
+        "25": "test-00691-mask-right-25.png",
+        "50": "test-00691-mask-right-50.png",
+        "75": "test-00691-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-721",
+      "dataset_index": 721,
+      "label_id": 8,
+      "label": "Sac",
+      "fichier": "test-00721.png",
+      "masked_fichiers": {
+        "25": "test-00721-mask-right-25.png",
+        "50": "test-00721-mask-right-50.png",
+        "75": "test-00721-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-6119",
+      "dataset_index": 6119,
+      "label_id": 4,
+      "label": "Manteau",
+      "fichier": "test-06119.png",
+      "masked_fichiers": {
+        "25": "test-06119-mask-right-25.png",
+        "50": "test-06119-mask-right-50.png",
+        "75": "test-06119-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-2688",
+      "dataset_index": 2688,
+      "label_id": 3,
+      "label": "Robe",
+      "fichier": "test-02688.png",
+      "masked_fichiers": {
+        "25": "test-02688-mask-right-25.png",
+        "50": "test-02688-mask-right-50.png",
+        "75": "test-02688-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-5698",
+      "dataset_index": 5698,
+      "label_id": 1,
+      "label": "Pantalon",
+      "fichier": "test-05698.png",
+      "masked_fichiers": {
+        "25": "test-05698-mask-right-25.png",
+        "50": "test-05698-mask-right-50.png",
+        "75": "test-05698-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-8247",
+      "dataset_index": 8247,
+      "label_id": 1,
+      "label": "Pantalon",
+      "fichier": "test-08247.png",
+      "masked_fichiers": {
+        "25": "test-08247-mask-right-25.png",
+        "50": "test-08247-mask-right-50.png",
+        "75": "test-08247-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-3413",
+      "dataset_index": 3413,
+      "label_id": 3,
+      "label": "Robe",
+      "fichier": "test-03413.png",
+      "masked_fichiers": {
+        "25": "test-03413-mask-right-25.png",
+        "50": "test-03413-mask-right-50.png",
+        "75": "test-03413-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-936",
+      "dataset_index": 936,
+      "label_id": 9,
+      "label": "Bottine",
+      "fichier": "test-00936.png",
+      "masked_fichiers": {
+        "25": "test-00936-mask-right-25.png",
+        "50": "test-00936-mask-right-50.png",
+        "75": "test-00936-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-7372",
+      "dataset_index": 7372,
+      "label_id": 4,
+      "label": "Manteau",
+      "fichier": "test-07372.png",
+      "masked_fichiers": {
+        "25": "test-07372-mask-right-25.png",
+        "50": "test-07372-mask-right-50.png",
+        "75": "test-07372-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-8548",
+      "dataset_index": 8548,
+      "label_id": 4,
+      "label": "Manteau",
+      "fichier": "test-08548.png",
+      "masked_fichiers": {
+        "25": "test-08548-mask-right-25.png",
+        "50": "test-08548-mask-right-50.png",
+        "75": "test-08548-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-2684",
+      "dataset_index": 2684,
+      "label_id": 4,
+      "label": "Manteau",
+      "fichier": "test-02684.png",
+      "masked_fichiers": {
+        "25": "test-02684-mask-right-25.png",
+        "50": "test-02684-mask-right-50.png",
+        "75": "test-02684-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-1655",
+      "dataset_index": 1655,
+      "label_id": 2,
+      "label": "Pull",
+      "fichier": "test-01655.png",
+      "masked_fichiers": {
+        "25": "test-01655-mask-right-25.png",
+        "50": "test-01655-mask-right-50.png",
+        "75": "test-01655-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-5283",
+      "dataset_index": 5283,
+      "label_id": 4,
+      "label": "Manteau",
+      "fichier": "test-05283.png",
+      "masked_fichiers": {
+        "25": "test-05283-mask-right-25.png",
+        "50": "test-05283-mask-right-50.png",
+        "75": "test-05283-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-9277",
+      "dataset_index": 9277,
+      "label_id": 6,
+      "label": "Chemise",
+      "fichier": "test-09277.png",
+      "masked_fichiers": {
+        "25": "test-09277-mask-right-25.png",
+        "50": "test-09277-mask-right-50.png",
+        "75": "test-09277-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-4201",
+      "dataset_index": 4201,
+      "label_id": 2,
+      "label": "Pull",
+      "fichier": "test-04201.png",
+      "masked_fichiers": {
+        "25": "test-04201-mask-right-25.png",
+        "50": "test-04201-mask-right-50.png",
+        "75": "test-04201-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-6437",
+      "dataset_index": 6437,
+      "label_id": 6,
+      "label": "Chemise",
+      "fichier": "test-06437.png",
+      "masked_fichiers": {
+        "25": "test-06437-mask-right-25.png",
+        "50": "test-06437-mask-right-50.png",
+        "75": "test-06437-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-4437",
+      "dataset_index": 4437,
+      "label_id": 4,
+      "label": "Manteau",
+      "fichier": "test-04437.png",
+      "masked_fichiers": {
+        "25": "test-04437-mask-right-25.png",
+        "50": "test-04437-mask-right-50.png",
+        "75": "test-04437-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-8504",
+      "dataset_index": 8504,
+      "label_id": 9,
+      "label": "Bottine",
+      "fichier": "test-08504.png",
+      "masked_fichiers": {
+        "25": "test-08504-mask-right-25.png",
+        "50": "test-08504-mask-right-50.png",
+        "75": "test-08504-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-7485",
+      "dataset_index": 7485,
+      "label_id": 5,
+      "label": "Sandale",
+      "fichier": "test-07485.png",
+      "masked_fichiers": {
+        "25": "test-07485-mask-right-25.png",
+        "50": "test-07485-mask-right-50.png",
+        "75": "test-07485-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-2932",
+      "dataset_index": 2932,
+      "label_id": 2,
+      "label": "Pull",
+      "fichier": "test-02932.png",
+      "masked_fichiers": {
+        "25": "test-02932-mask-right-25.png",
+        "50": "test-02932-mask-right-50.png",
+        "75": "test-02932-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-1299",
+      "dataset_index": 1299,
+      "label_id": 4,
+      "label": "Manteau",
+      "fichier": "test-01299.png",
+      "masked_fichiers": {
+        "25": "test-01299-mask-right-25.png",
+        "50": "test-01299-mask-right-50.png",
+        "75": "test-01299-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-4486",
+      "dataset_index": 4486,
+      "label_id": 3,
+      "label": "Robe",
+      "fichier": "test-04486.png",
+      "masked_fichiers": {
+        "25": "test-04486-mask-right-25.png",
+        "50": "test-04486-mask-right-50.png",
+        "75": "test-04486-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-9691",
+      "dataset_index": 9691,
+      "label_id": 1,
+      "label": "Pantalon",
+      "fichier": "test-09691.png",
+      "masked_fichiers": {
+        "25": "test-09691-mask-right-25.png",
+        "50": "test-09691-mask-right-50.png",
+        "75": "test-09691-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-3183",
+      "dataset_index": 3183,
+      "label_id": 8,
+      "label": "Sac",
+      "fichier": "test-03183.png",
+      "masked_fichiers": {
+        "25": "test-03183-mask-right-25.png",
+        "50": "test-03183-mask-right-50.png",
+        "75": "test-03183-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-7250",
+      "dataset_index": 7250,
+      "label_id": 7,
+      "label": "Basket",
+      "fichier": "test-07250.png",
+      "masked_fichiers": {
+        "25": "test-07250-mask-right-25.png",
+        "50": "test-07250-mask-right-50.png",
+        "75": "test-07250-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-6559",
+      "dataset_index": 6559,
+      "label_id": 4,
+      "label": "Manteau",
+      "fichier": "test-06559.png",
+      "masked_fichiers": {
+        "25": "test-06559-mask-right-25.png",
+        "50": "test-06559-mask-right-50.png",
+        "75": "test-06559-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-6633",
+      "dataset_index": 6633,
+      "label_id": 2,
+      "label": "Pull",
+      "fichier": "test-06633.png",
+      "masked_fichiers": {
+        "25": "test-06633-mask-right-25.png",
+        "50": "test-06633-mask-right-50.png",
+        "75": "test-06633-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-6274",
+      "dataset_index": 6274,
+      "label_id": 4,
+      "label": "Manteau",
+      "fichier": "test-06274.png",
+      "masked_fichiers": {
+        "25": "test-06274-mask-right-25.png",
+        "50": "test-06274-mask-right-50.png",
+        "75": "test-06274-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-6296",
+      "dataset_index": 6296,
+      "label_id": 0,
+      "label": "T-shirt/haut",
+      "fichier": "test-06296.png",
+      "masked_fichiers": {
+        "25": "test-06296-mask-right-25.png",
+        "50": "test-06296-mask-right-50.png",
+        "75": "test-06296-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-8217",
+      "dataset_index": 8217,
+      "label_id": 6,
+      "label": "Chemise",
+      "fichier": "test-08217.png",
+      "masked_fichiers": {
+        "25": "test-08217-mask-right-25.png",
+        "50": "test-08217-mask-right-50.png",
+        "75": "test-08217-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-4971",
+      "dataset_index": 4971,
+      "label_id": 1,
+      "label": "Pantalon",
+      "fichier": "test-04971.png",
+      "masked_fichiers": {
+        "25": "test-04971-mask-right-25.png",
+        "50": "test-04971-mask-right-50.png",
+        "75": "test-04971-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-6762",
+      "dataset_index": 6762,
+      "label_id": 0,
+      "label": "T-shirt/haut",
+      "fichier": "test-06762.png",
+      "masked_fichiers": {
+        "25": "test-06762-mask-right-25.png",
+        "50": "test-06762-mask-right-50.png",
+        "75": "test-06762-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-2163",
+      "dataset_index": 2163,
+      "label_id": 2,
+      "label": "Pull",
+      "fichier": "test-02163.png",
+      "masked_fichiers": {
+        "25": "test-02163-mask-right-25.png",
+        "50": "test-02163-mask-right-50.png",
+        "75": "test-02163-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-1574",
+      "dataset_index": 1574,
+      "label_id": 0,
+      "label": "T-shirt/haut",
+      "fichier": "test-01574.png",
+      "masked_fichiers": {
+        "25": "test-01574-mask-right-25.png",
+        "50": "test-01574-mask-right-50.png",
+        "75": "test-01574-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-5263",
+      "dataset_index": 5263,
+      "label_id": 7,
+      "label": "Basket",
+      "fichier": "test-05263.png",
+      "masked_fichiers": {
+        "25": "test-05263-mask-right-25.png",
+        "50": "test-05263-mask-right-50.png",
+        "75": "test-05263-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-8086",
+      "dataset_index": 8086,
+      "label_id": 5,
+      "label": "Sandale",
+      "fichier": "test-08086.png",
+      "masked_fichiers": {
+        "25": "test-08086-mask-right-25.png",
+        "50": "test-08086-mask-right-50.png",
+        "75": "test-08086-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-7498",
+      "dataset_index": 7498,
+      "label_id": 3,
+      "label": "Robe",
+      "fichier": "test-07498.png",
+      "masked_fichiers": {
+        "25": "test-07498-mask-right-25.png",
+        "50": "test-07498-mask-right-50.png",
+        "75": "test-07498-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-9728",
+      "dataset_index": 9728,
+      "label_id": 1,
+      "label": "Pantalon",
+      "fichier": "test-09728.png",
+      "masked_fichiers": {
+        "25": "test-09728-mask-right-25.png",
+        "50": "test-09728-mask-right-50.png",
+        "75": "test-09728-mask-right-75.png"
+      }
+    },
+    {
+      "id": "fashion-test-5470",
+      "dataset_index": 5470,
+      "label_id": 8,
+      "label": "Sac",
+      "fichier": "test-05470.png",
+      "masked_fichiers": {
+        "25": "test-05470-mask-right-25.png",
+        "50": "test-05470-mask-right-50.png",
+        "75": "test-05470-mask-right-75.png"
+      }
+    }
+  ]
+}

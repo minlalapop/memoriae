@@ -1,0 +1,16 @@
+services:
+  backend:
+    build: .
+    environment:
+      MEMORIAE_DATABASE_URL: sqlite:////data/memoriae.db
+      MEMORIAE_ENV: ${MEMORIAE_ENV:-development}
+      MEMORIAE_RESEARCHER_USERNAME: ${MEMORIAE_RESEARCHER_USERNAME:-}
+      MEMORIAE_RESEARCHER_PASSWORD_HASH: ${MEMORIAE_RESEARCHER_PASSWORD_HASH:-}
+      MEMORIAE_RESEARCHER_SESSION_HOURS: ${MEMORIAE_RESEARCHER_SESSION_HOURS:-8}
+    ports:
+      - "8000:8000"
+    volumes:
+      - memoriae_data:/data
+
+volumes:
+  memoriae_data:
